@@ -1,2 +1,4 @@
 # amazinform
-Réalisation et traitement d'un formulaire ( Projet: Amazin)
+#Projet Amazin
+# Questionnaire Satisfaction Client
+Réalisation et traitement d'un formulaire en php.
